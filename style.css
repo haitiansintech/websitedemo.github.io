@@ -125,3 +125,27 @@ body {
     }
   
   }
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.dark-mode h3 {
+  color:white;
+}
+
+.dark-mode button {
+  background-color: black;
+  border-color: white;
+  color: white;
+}
+
+.dark-mode nav {
+  background-color: black;
+}
+
+.dark-mode .nav-link:hover {
+  text-decoration: underline;
+  color: white;
+}
